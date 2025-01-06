@@ -39,7 +39,7 @@ I designed and developed the portfolio project, incorporating feedback and itera
 
 - I enhanced my coding skills and knowledge of web development frameworks
 
-- preview front page
+- #### 👇👇👇#preview front page
 - ![1000021231](https://github.com/user-attachments/assets/8b9bd422-6f58-4f7f-895c-df3d60582430)
 
 # By bharani_coder
