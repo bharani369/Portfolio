@@ -1,1 +1,40 @@
-Preview
+# About Portfolio 
+🎯Timeline Project Overview📈
+
+### Project Duration: [3 weeks]
+
+Key Milestones:
+## 1. Project Initiation: [5-12-24] 
+
+ I defined the project scope, goals, and objectives
+
+## 2.Planning and Research: [8-12-24] 
+
+ I conducted research, gathered requirements, and created a project plan
+
+## 3. Design and Development: [15-12-2024] 
+
+I designed and developed the portfolio project, incorporating feedback and iterations.
+
+## 4. Testing and Quality Assurance[26-12-2024]
+
+ - I conducted thorough testing, identified and fixed bugs, and ensured the project met quality standards.
+
+## 5. Launch and Completion: 
+
+[6-01-2025] - I successfully launched and completed the portfolio project.💥🔥
+
+## Skills Utilized: ✅🧑‍🎓
+- [HTML, CSS , Javascript , some javascript  animation library ,project management]
+check it out here:https://bharaniportfolio3.netlify.app/
+  ## Outcomes:
+- I developed a professional portfolio showcasing my skills and experience
+
+- I demonstrated project management and problem-solving skills
+
+- I enhanced my coding skills and knowledge of web development frameworks
+
+- preview front page
+- ![1000021231](https://github.com/user-attachments/assets/8b9bd422-6f58-4f7f-895c-df3d60582430)
+
+# By bharani_coder
