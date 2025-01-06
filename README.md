@@ -1,4 +1,5 @@
-# About Portfolio 
+# #About Portfolio 
+<img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" /> Rate my portfolio 
 
 #### 🎯Timeline Project Overview📈
 
