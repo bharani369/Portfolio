@@ -1,9 +1,10 @@
 # About Portfolio 
-🎯Timeline Project Overview📈
+
+#### 🎯Timeline Project Overview📈
 
 ### Project Duration: [3 weeks]
 
-Key Milestones:
+###### Key Milestones:✅
 ## 1. Project Initiation: [5-12-24] 
 
  I defined the project scope, goals, and objectives
