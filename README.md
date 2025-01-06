@@ -30,7 +30,7 @@ I designed and developed the portfolio project, incorporating feedback and itera
 
 ## Skills Utilized: ✅🧑‍🎓
 - [HTML, CSS , Javascript , some javascript  animation library ,project management]
-check it out here:https://bharaniportfolio3.netlify.app/
+## check it out here:https://bharaniportfolio3.netlify.app/
   ## Outcomes:
 - I developed a professional portfolio showcasing my skills and experience
 
