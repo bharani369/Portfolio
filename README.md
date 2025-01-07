@@ -25,9 +25,8 @@ I designed and developed the portfolio project, incorporating feedback and itera
 
  - I conducted thorough testing, identified and fixed bugs, and ensured the project met quality standards.
 
-## 5. Launch and Completion: 
-
-[6-01-2025] - I successfully launched and completed the portfolio project.💥🔥
+## 5. Launch and Completion [6-01-2025] 
+- I successfully launched and completed the portfolio project.💥🔥
 
 ## Skills Utilized: ✅🧑‍🎓
 - [HTML, CSS , Javascript , some javascript  animation library ,project management]
