@@ -5,6 +5,9 @@
 
 ### Language
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![1000021243](https://github.com/user-attachments/assets/862f65a4-5812-4012-9525-178b054f6bf9)
+
+
 
 ### Project Duration: [3 weeks]
 
@@ -42,3 +45,5 @@ I designed and developed the portfolio project, incorporating feedback and itera
 - ![1000021231](https://github.com/user-attachments/assets/8b9bd422-6f58-4f7f-895c-df3d60582430)
 
 # By bharani_coder
+
+
