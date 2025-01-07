@@ -1,3 +1,4 @@
+
 ## Portfolio Overview 
 <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" /> Rate my portfolio 
 
@@ -13,8 +14,9 @@
 
 ###### Key Milestones:✅
 ## 1. Project Initiation: [5-12-24] 
-
+ '''
  I defined the project scope, goals, and objectives
+ '''
 
 ## 2.Planning and Research: [8-12-24] 
 
